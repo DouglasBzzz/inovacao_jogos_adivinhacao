@@ -17,6 +17,7 @@ def jogar():
 
     letras_encontradas = ["_" for letra in palavra_objetivo]
     print(letras_encontradas)
+    print("Agora nossa IDE está acoplada diretamente ao projeto")
 
     print("END GAME")
 
